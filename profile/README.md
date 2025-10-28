@@ -35,6 +35,8 @@ Incluye funcionalidades como:
 - Sistema de notificaciones
 - Y más
 
+📄 [Ver la wiki del proyecto](https://github.com/VirtualisaDevTeam/metis-operaciones/wiki)
+
 ---
 ## 🔧 Proyecto Metis Taller
 
