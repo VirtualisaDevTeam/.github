@@ -38,6 +38,7 @@ Incluye funcionalidades como:
 📄 [Ver la wiki del proyecto](https://github.com/VirtualisaDevTeam/metis-operaciones/wiki)
 
 ---
+
 ## 🔧 Proyecto Metis Taller
 
 Sistema desarrollado a medida para la gestión integral de talleres.  
@@ -52,6 +53,23 @@ Incluye funcionalidades como:
 - Y más
 
 📄 [Ver la wiki del proyecto](https://github.com/VirtualisaDevTeam/metis-taller-wiki/wiki)
+
+---
+
+## 🔒 Proyecto WebLocker
+
+Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por PIN administrativo.
+
+Incluye funcionalidades como:
+
+- Acceso controlado a un sistema web interno
+- Configuración protegida por PIN administrativo
+- Lista blanca de orígenes HTTPS
+- Soporte para cámara y selección de archivos desde la aplicación
+- Manejo de conectividad, descargas y visualización de documentos PDF
+- Configuración del nombre, logo y URL de la aplicación
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/weblocker)
 
 ---
 
