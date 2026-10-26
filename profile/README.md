@@ -58,7 +58,7 @@ Incluye funcionalidades como:
 
 ## 🔒 Proyecto WebLocker
 
-Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por PIN [...]
+Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por [...]
 
 Incluye funcionalidades como:
 
@@ -78,6 +78,73 @@ Incluye funcionalidades como:
 Sistema desarrollado para la gestión de vehículos sin registrar.
 
 📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/vehiculos-sr)
+
+---
+
+## 🌾 Agricultura de Precisión — Remote Agro Control
+
+Plataforma para la gestión y el monitoreo de operaciones agrícolas.
+
+Incluye los siguientes componentes:
+
+- [Frontend](https://github.com/VirtualisaDevTeam/agricultura-de-precision-frontend)
+- [Servicio de persistencia](https://github.com/VirtualisaDevTeam/agricultura-de-precision-persistence-service)
+- [Datamart](https://github.com/VirtualisaDevTeam/agricultura-de-precision-datamart)
+- [Servicio de identidad y acceso](https://github.com/VirtualisaDevTeam/agricultura-de-precision-iam)
+- [API Gateway](https://github.com/VirtualisaDevTeam/agricultura-de-precision-gateway)
+
+---
+
+## 🎁 Beneficios Patriotas
+
+Ecosistema de aplicaciones para la gestión de beneficios, validación de códigos y administración de promociones.
+
+Incluye los siguientes componentes:
+
+- [Aplicación de Beneficios Patriotas](https://github.com/VirtualisaDevTeam/BeneficiosPatriotasAPP)
+- [Aplicación móvil para validación de códigos](https://github.com/VirtualisaDevTeam/BeneficiosPatriotas_ValidadorCodigos_MOBILE)
+- [BackOffice para validación de códigos](https://github.com/VirtualisaDevTeam/BeneficiosPatriotas_ValidadorCodigos_BackOffice)
+- [Testing del sistema](https://github.com/VirtualisaDevTeam/BeneficiosPatriotas_ValidadorCodigos_Testing)
+
+---
+
+## 🛡️ Proyecto Control de Rondas
+
+Sistema desarrollado para la gestión y el control de rondas de seguridad.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/control_rondas)
+
+---
+
+## 📡 Proyecto Telemetría GPS
+
+Sistema para el monitoreo y seguimiento de vehículos mediante telemetría GPS.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/TelemetriaGPS)
+
+---
+
+## 🔑 Proyecto Codiguera
+
+Sistema para la generación de códigos de desbloqueo de dispositivos en vehículos CI5.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/codiguera)
+
+---
+
+## 🧾 Proyecto OCR de lectura de tickets
+
+Sistema para la lectura y el procesamiento automático de tickets mediante tecnología OCR.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/ocr-lectura-de-ticket)
+
+---
+
+## 🍇 Proyecto Finca de los Viñedos Imposibles
+
+Sitio web desarrollado para el proyecto Finca de los Viñedos Imposibles.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/FincaVinedosImposibles)
 
 ---
 
