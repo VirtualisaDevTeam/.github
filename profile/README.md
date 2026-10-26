@@ -10,8 +10,9 @@ Aquí colaboramos, construimos y compartimos conocimiento de forma organizada y 
 Toda la documentación de los proyectos se encuentra en sus respectivas wikis. Estas contienen información técnica, decisiones de diseño, flujos funcionales y guías de uso.
 
 ---
-## 📈 Sistema de admnistración de empresas de servicios - SADES
-Sistema para la adminstración y gestión de empresas.
+## 📈 Sistema de administración de empresas de servicios - SADES
+
+Sistema para la administración y gestión de empresas.
 Incluye funcionalidades como:
 
 - Gestión de comprobantes (Facturas - Remitos)
@@ -21,6 +22,12 @@ Incluye funcionalidades como:
 - Gestión de bajas
 - Sistema de notificaciones
 - Y más
+
+### Repositorios
+
+- [SADES Logística](https://github.com/VirtualisaDevTeam/sades-logistica)
+- [SADES RRHH](https://github.com/VirtualisaDevTeam/sades-rrhh)
+- [SADES CUI](https://github.com/VirtualisaDevTeam/sades-cui)
 
 ---
 ## 🚙 Proyecto Metis Operaciones
@@ -34,6 +41,16 @@ Incluye funcionalidades como:
 - Generación de reportes
 - Sistema de notificaciones
 - Y más
+
+### Repositorios
+
+- [Metis Operaciones](https://github.com/VirtualisaDevTeam/metis-operaciones)
+- [Metis UI](https://github.com/VirtualisaDevTeam/metis-ui)
+- [Metis API Gateway Service](https://github.com/VirtualisaDevTeam/metis-api-gateway-service)
+- [Metis IAM Service](https://github.com/VirtualisaDevTeam/metis-iam-service)
+- [Metis Notifications Service](https://github.com/VirtualisaDevTeam/metis-notifications-service)
+- [Metis Datamart Service](https://github.com/VirtualisaDevTeam/metis-datamart-service)
+- [Metis Server Config](https://github.com/VirtualisaDevTeam/metis-server-config)
 
 📄 [Ver la wiki del proyecto](https://github.com/VirtualisaDevTeam/metis-operaciones/wiki)
 
@@ -52,13 +69,28 @@ Incluye funcionalidades como:
 - Sistema de notificaciones
 - Y más
 
+### Repositorios
+
+- [Metis Taller Wiki](https://github.com/VirtualisaDevTeam/metis-taller-wiki)
+- [Metis Workorders Service](https://github.com/VirtualisaDevTeam/metis-workorders-service)
+- [Metis Workorders Service 2](https://github.com/VirtualisaDevTeam/metis-workorders-service-2)
+- [Metis Appointments Service](https://github.com/VirtualisaDevTeam/metis-appointments-service)
+- [Metis Supply Service](https://github.com/VirtualisaDevTeam/metis-supply-service)
+- [Metis Service Parts Classification](https://github.com/VirtualisaDevTeam/metis-service-parts-classification)
+- [Metis Nomenclador](https://github.com/VirtualisaDevTeam/metis-nomenclador)
+- [Metis Operations Interface](https://github.com/VirtualisaDevTeam/metis-operations-interface)
+- [Metis API Gateway Service](https://github.com/VirtualisaDevTeam/metis-api-gateway-service)
+- [Metis IAM Service](https://github.com/VirtualisaDevTeam/metis-iam-service)
+- [Metis Notifications Service](https://github.com/VirtualisaDevTeam/metis-notifications-service)
+- [Metis Server Config](https://github.com/VirtualisaDevTeam/metis-server-config)
+
 📄 [Ver la wiki del proyecto](https://github.com/VirtualisaDevTeam/metis-taller-wiki/wiki)
 
 ---
 
 ## 🔒 Proyecto WebLocker
 
-Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por [...]
+Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por PIN administrativo.
 
 Incluye funcionalidades como:
 
