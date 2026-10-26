@@ -58,7 +58,7 @@ Incluye funcionalidades como:
 
 ## 🔒 Proyecto WebLocker
 
-Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por PIN administrativo.
+Aplicación Android desarrollada para funcionar como un navegador de acceso controlado a un único sistema web interno. Utiliza una `WebView` a pantalla completa, con configuración protegida por PIN [...]
 
 Incluye funcionalidades como:
 
@@ -70,6 +70,14 @@ Incluye funcionalidades como:
 - Configuración del nombre, logo y URL de la aplicación
 
 📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/weblocker)
+
+---
+
+## 🚗 Proyecto Vehículos Sin Registrar
+
+Sistema desarrollado para la gestión de vehículos sin registrar.
+
+📄 [Ver el repositorio del proyecto](https://github.com/VirtualisaDevTeam/vehiculos-sr)
 
 ---
 
